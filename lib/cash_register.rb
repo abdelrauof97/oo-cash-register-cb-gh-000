@@ -37,7 +37,6 @@ class CashRegister
   
 end
 
-binding.pry
 
 
 
