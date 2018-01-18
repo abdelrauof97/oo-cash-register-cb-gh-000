@@ -25,15 +25,6 @@ class CashRegister
     end
   end
   
-  def items
-    all_items = []
-    all_items << @item
-    all_items
-  end
-  
-  def items 
-    @all_items
-  end
   
 end
 
